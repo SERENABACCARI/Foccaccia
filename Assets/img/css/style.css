@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+hr {
+    margin: 10;
+    color: rgb(157, 204, 157);
+}
+
+header img {
+    width: 300px;
+    border-radius: 20px;
+}
+
+span
